@@ -3,4 +3,4 @@
 ### 简于初,易于行
 #### 开始简单,容易使用
 
-![Strong](./images/strong.jpg)
+<img style="width:100%;" src="./images/simple.jpg" >  
