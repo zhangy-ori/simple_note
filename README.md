@@ -2,4 +2,5 @@
 ## simple_note
 ### 简于初,易于行
 #### 开始简单,容易使用
-1
+
+<img style="width:100%;" src="./images/simple.jpg" >  
