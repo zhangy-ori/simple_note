@@ -16,3 +16,5 @@ git commit -m %content%
 
 git push origin %branch%
 
+pause
+
