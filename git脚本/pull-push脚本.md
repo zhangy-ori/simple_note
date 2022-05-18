@@ -3,18 +3,14 @@
 - pull  
 ```
 @echo on 
-G:
-cd \Documents\gitee\chinaway
 git pull origin master
 
 ```
 - push
 ```
 @echo on
-G:
-cd \Documents\gitee\chinaway
 git add .
-set record="zhangyang_company于%date:~0,4%-%date:~5,2%-%date:~8,2% %time:~0,8%一键提交"
+set record="zhangyang于%date:~0,4%-%date:~5,2%-%date:~8,2% %time:~0,8%一键提交"
 git commit -m %record%
 git push origin "master"
 ``` 
