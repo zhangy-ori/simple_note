@@ -15,8 +15,8 @@ git commit -m %record%
 git push origin "master"
 ``` 
 
-### 进阶版
-pull-push([git_auto.bat](git_auto.txt))
+### 进阶版  
+- pull-push([git_auto.bat](git_auto.txt))
 ```
 @echo off
 git pull origin main
