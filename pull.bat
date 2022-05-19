@@ -1,2 +1,2 @@
-@echo on 
-git pull origin main
+@echo off
+git pull origin master
