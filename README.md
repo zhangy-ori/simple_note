@@ -7,8 +7,8 @@
 - [select2(待补充)](https://github.com/zhangy-ori/simple_note/blob/main/web/select2(%E5%BE%85%E8%A1%A5%E5%85%85).md)
 - [var-const-let(待补充)](https://github.com/zhangy-ori/simple_note/blob/main/web/var-const-let(%E5%BE%85%E8%A1%A5%E5%85%85).md)
 - [阿里Java开发手册](https://github.com/zhangy-ori/simple_note/blob/main/basic/AlibabaJavaCodingGuidlines.pdf)
-- [Markdown](https://github.com/zhangy-ori/simple_note/blob/main/basic/AlibabaJavaCodingGuidlines.pdf)
-- [spring-@Cacheable](https://github.com/zhangy-ori/simple_note/blob/main/basic/AlibabaJavaCodingGuidlines.pdf)
-- [Idea激活](https://github.com/zhangy-ori/simple_note/blob/main/expand/IDEA_activation.md)
+- [Markdown](https://github.com/zhangy-ori/simple_note/blob/main/basic/Markdown.md)
+- [spring-@Cacheable](https://github.com/zhangy-ori/simple_note/blob/main/basic/spring-%40Cacheable.md)
+- [泛型](https://github.com/zhangy-ori/simple_note/blob/main/basic/java-generic.md)
 
 <img style="width:100%;" src="./images/simple.jpg" >  
